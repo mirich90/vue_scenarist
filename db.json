@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Персонажи",
+      "icon": "people-fill",
+      "tables": "persons"
+    },
+    {
+      "id": "2",
+      "title": "Миры",
+      "icon": "globe",
+      "tables": "worlds"
+    },
+    {
+      "id": "3",
+      "title": "Сценарии",
+      "icon": "journal-text",
+      "tables": "scenes"
+    },
+    {
+      "id": "4",
+      "title": "Локации",
+      "icon": "house",
+      "tables": "locations"
+    }
+  ],
+  "persons": [
+    {
+      "id": "1",
+      "projectId": "1",
+      "title": "Черный",
+      "description": "a description"
+    },
+    {
+      "id": "3",
+      "projectId": "2",
+      "title": "Свин",
+      "description": "a description"
+    },
+    {
+      "id": "2",
+      "projectId": "1",
+      "title": "ГГ",
+      "description": "another description"
+    }
+  ],
+
+  "locations": [
+    {
+      "id": "1",
+      "projectId": "1",
+      "title": "Поезд",
+      "description": "a description"
+    }
+  ],
+
+  "worlds": [
+    {
+      "id": "1",
+      "projectId": "1",
+      "title": "Красноярск",
+      "description": "a description"
+    }
+  ],
+
+  "scenes": [
+    {
+      "id": "1",
+      "projectId": "1",
+      "title": "Поездка в поезде",
+      "description": "a description"
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "1",
+      "title": "Легенда о черном",
+      "description": "Описание проекта"
+    },
+    {
+      "id": "2",
+      "title": "Pig-noir",
+      "description": "Описание проекта"
+    }
+  ]
+}
